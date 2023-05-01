@@ -1,0 +1,4 @@
+django
+dotenv
+os
+pathlib
